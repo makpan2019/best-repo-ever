@@ -1,5 +1,7 @@
 # best-repo-ever
+HEAD
 Test ...text for trailhead 
 Hello This is trial text for Trailhead 
 
-Change to existing file for TrailHEAD
+This is merge conflict check
+Merge Conflict is been resolved 
